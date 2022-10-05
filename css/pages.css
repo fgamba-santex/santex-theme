@@ -1,0 +1,1589 @@
+/* Services */
+.page-services .page-featured {
+	background-image: url(../../../uploads/2022/04/IMG_20220428_105545500-1-scaled.jpg);
+	background-position: center center;
+}
+
+.page-services .page-featured h2 {
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.page-services .services-list .service-image {
+	background-position: center center;
+	background-size: cover;
+	min-height: 247px;
+	border-radius: 10px;
+	display: block;
+}
+
+.page-services .services-list .service-image-digital-commerce {
+	background-image: url(../../../uploads/2021/11/digital-commerce-header.jpg);
+}
+
+.page-services .services-list .service-image-mobility {
+	background-image: url(../../../uploads/2022/07/service-mobility-header.jpg);
+}
+
+.page-services .services-list .service-image-agile {
+	background-image: url(../../../uploads/2022/07/service-agile-header.jpg);
+}
+
+.page-services .services-list .service-image-data-science {
+	background-image: url(../../../uploads/2022/02/data-science-header-scaled.jpg);
+}
+
+.page-services .services-list .service-image-custom-software {
+	background-image: url(../../../uploads/2022/07/custom-software-header.jpg);
+}
+
+.page-services .services-list .service-image-digital-transformation {
+	background-image: url(../../../uploads/2022/03/digital-transformation-header.jpg);
+}
+
+.page-services .services-list .service-image-custom-crm {
+	background-image: url(../../../uploads/2022/03/crm-solutions-header.jpg);
+}
+
+.page-services .services-list .service-image-devops {
+	background-image: url(../../../uploads/2022/03/devops-header.jpg);
+}
+
+.page-services .services-list h4 {
+	margin: 25px auto 20px;
+	font-size: 24px;
+	line-height: 1.2;
+	color: #111111;
+}
+
+.page-services .services-list h4 a {
+	color: #111111;
+	text-decoration: none;
+}
+
+.page-services .services-list h4 a:hover {
+	color: #222222;
+	text-decoration: none;
+}
+
+.page-services .services-list p {
+	margin-bottom: 30px;
+	font-size: 14px;
+}
+
+.get-in-touch-prefooter {
+	background-image: url(../../../uploads/2022/07/get-in-touch-banner.jpg);
+	background-position: top center;
+	background-size: cover;
+}
+
+.get-in-touch-prefooter img {
+	width: 35px;
+	height: auto;
+	float: left;
+	margin: 0 40px 0 0;
+}
+
+.get-in-touch-prefooter h5 {
+	font-size: 18px;
+	line-height: 1.2;
+	font-weight: 600;
+	letter-spacing: 0;
+}
+
+.get-in-touch-prefooter a {
+	text-decoration: none;
+}
+
+/* Contact */
+.page-contact .page-featured {
+	background-image: url(../../../uploads/2021/07/bg-contact-us.jpg);
+	background-position: center center;
+	height: 500px;
+}
+
+.page-contact #form_success {
+	text-align: center;
+}
+
+.page-contact .page-featured h1 {
+	font-size: 60px;
+	margin-bottom: 10px;
+}
+
+.page-contact form {
+	max-width: 600px;
+	margin: auto;
+}
+
+.page-contact h5 {
+	font-weight: 600;
+}
+
+.page-contact label {
+	display: block;
+	font-weight: 600;
+	font-size: 14px;
+}
+
+.page-contact input {
+	border: 1px solid #999999;
+	background: #ffffff;
+	border-radius: 2px;
+	height: 46px;
+	color: #111111;
+	display: block;
+	width: 100%;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: 2px auto 20px;
+	font-family: 'Red Hat Text', sans-serif;
+	font-size: 14px;
+	box-sizing: border-box;
+	outline: 0;
+}
+
+.page-contact textarea {
+	border: 1px solid #999999;
+	background: #ffffff;
+	border-radius: 2px;
+	height: 150px;
+	color: #111111;
+	display: block;
+	width: 100%;
+	padding: 15px;
+	margin: 2px auto 20px;
+	font-family: 'Red Hat Text', sans-serif;
+	font-size: 14px;
+	box-sizing: border-box;
+	outline: 0;
+}
+
+.page-contact .submit-black {
+	background: #111;
+	color: #fff;
+	cursor: pointer;
+}
+
+.page-contact ::-webkit-input-placeholder {
+	color: #999999;
+	font-weight: 400;
+}
+
+.page-contact :-moz-placeholder {
+	color: #999999;
+	font-weight: 400;
+}
+
+.page-contact ::-moz-placeholder {
+	color: #999999;
+	font-weight: 400;
+}
+
+.page-contact :-ms-input-placeholder {
+	color: #999999;
+	font-weight: 400;
+}
+
+.page-contact ::placeholder {
+	color: #999999;
+	font-weight: 400;
+}
+
+.page-contact input:focus,
+.page-contact textarea:focus {
+	border-color: #111111;
+}
+
+.page-contact button.btn-black {
+	padding: 10px 25px !important;
+	font-size: 12px !important;
+	text-transform: uppercase !important;
+	border-radius: 20px !important;
+	font-weight: 600 !important;
+	float: right;
+}
+
+
+/* Team */
+
+.page-team .page-featured {
+	background-image: url(../../../uploads/2020/06/AP__7823-scaled.jpg);
+	background-position: center center;
+}
+
+.page-team .page-featured h2 {
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 24px;
+}
+
+.page-team .team-list h4 {
+	font-weight: 600;
+	color: #111111;
+}
+
+.page-team .team-list p {
+	color: #575757;
+	margin-top: 10px;
+}
+
+.page-team .team-list img {
+	filter: grayscale(100%);
+}
+
+.page-team .team-list img:hover {
+	filter: grayscale(0);
+}
+
+.page-team .team-list .team-social {
+	margin-bottom: 10px;
+}
+
+.page-team .team-list .team-social a {
+	width: 24px;
+	height: 24px;
+	background: #111111;
+	border-radius: 50%;
+	text-decoration: none;
+	display: inline-block;
+	line-height: 1.4;
+}
+
+.page-team .team-list .team-social i {
+	font-size: 12px;
+	color: #ffffff
+}
+
+.page-team .team-list .team-social a.team-linkedin:hover {
+	background: #0a66c2;
+}
+
+.page-team .team-list .team-social a.team-twitter:hover {
+	background: #1d9bf0;
+}
+
+.page-team .agile-teams {
+	background-image: url(../../../uploads/2019/10/jbS_4-wQ.jpeg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 100px;
+	padding-bottom: 80px;
+	position: relative;
+	display: flex;
+}
+
+.page-team .agile-teams .container-overlay {
+	opacity: 0.8;
+	background-image: linear-gradient(270deg, rgba(175, 175, 175, 0.35) 0%, #151638 100%);
+}
+
+.page-team .agile-teams .container {
+	z-index: 2;
+}
+
+.page-team .agile-teams .white-box {
+	background: #ffffff;
+	padding: 50px;
+	box-sizing: border-box;
+}
+
+.page-team .sustainable-title {
+	background: #F7F8FC;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.page-team .sustainable-title h2 {
+	font-size: 40px;
+	display: inline-block;
+	color: #575757;
+	vertical-align: middle;
+}
+
+.page-team .sustainable-title img {
+	width: auto;
+	max-width: 200px;
+	vertical-align: middle;
+}
+
+.page-team .goals-image {
+	width: auto;
+	max-width: 100%;
+}
+
+
+/* Careers */
+
+.careers .page-featured {
+	background-image: url(../../../uploads/2022/07/careers-header.jpg);
+	background-position: center center;
+}
+
+.careers .page-featured h1 {
+	max-width: 420px;
+}
+
+.careers .page-featured h2 {
+	max-width: 360px;
+	font-size: 20px;
+	line-height: 1.4;
+}
+
+.careers .page-featured .btn {
+	margin-left: 0;
+}
+
+.careers .careers-about {
+	background-image: url(../../../uploads/2022/07/careers-bg-about-scaled-1.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 100px;
+	padding-bottom: 80px;
+	position: relative;
+	display: flex;
+}
+
+.careers .careers-about h3 {
+	color: #999999 !important;
+}
+
+.careers .careers-about img {
+	height: 30px;
+	width: auto;
+	margin: 3px auto 10px;
+}
+
+.careers .careers-about p {
+	font-size: 18px;
+}
+
+.careers .career-why .career-why-image {
+	background-image: url(../../../uploads/2022/07/careers-choose-santex.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 0 20px 20px 0;
+	min-height: 400px;
+}
+
+@media (max-width: 768px) {
+	.careers .career-why .row {
+		--bs-gutter-x: 0;
+	}
+
+	.careers .career-why .career-why-image {
+		border-radius: 30px;
+	}
+}
+
+.careers .career-why .career-why-info {
+	max-width: 450px;
+	margin: auto;
+	padding: 90px 30px;
+}
+
+@media (max-width: 768px) {
+	.careers .career-why .career-why-info {
+		padding: 50px 30px 0;
+	}
+}
+
+.careers .career-why .career-why-info h3 {
+	margin-bottom: 30px;
+}
+
+.careers .career-why .career-why-info img {
+	height: 50px;
+	width: auto;
+	margin-top: 30px;
+}
+
+.careers .career-holacratic .career-holacratic-image {
+	background-image: url(../../../uploads/2022/07/careers-holacratic-structure.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 20px 0 0 20px;
+	min-height: 400px;
+}
+
+@media (max-width: 768px) {
+	.careers .career-holacratic .row {
+		--bs-gutter-x: 0;
+	}
+
+	.careers .career-holacratic .career-holacratic-image {
+		border-radius: 30px;
+	}
+}
+
+.careers .career-holacratic .career-holacratic-info {
+	max-width: 500px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+@media (max-width: 768px) {
+	.careers .career-holacratic .career-holacratic-info {
+		padding: 50px 30px 0;
+	}
+}
+
+.careers .career-holacratic .career-holacratic-info h3 {
+	margin-bottom: 30px;
+}
+
+.careers .career-holacratic .career-holacratic-info .row p {
+	margin-top: 0;
+}
+
+.careers .career-bcorp .career-bcorp-image {
+	background-image: url(../../../uploads/2022/07/careers-b-corp.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 0 20px 20px 0;
+	min-height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+}
+
+.careers .career-bcorp .career-bcorp-image img {
+	z-index: 2;
+	width: 125px;
+	height: auto;
+}
+
+.careers .career-bcorp .career-bcorp-image .container-overlay {
+	border-radius: 0 20px 20px 0;
+}
+
+@media (max-width: 768px) {
+	.careers .career-bcorp .row {
+		--bs-gutter-x: 0;
+	}
+
+	.careers .career-bcorp .career-bcorp-image,
+	.careers .career-bcorp .career-bcorp-image .container-overlay {
+		border-radius: 30px;
+	}
+}
+
+.careers .career-bcorp .career-bcorp-info {
+	max-width: 500px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+@media (max-width: 768px) {
+	.careers .career-bcorp .career-bcorp-info {
+		padding: 50px 30px 0;
+	}
+}
+
+.careers .career-equality .career-equality-image {
+	background-image: url(../../../uploads/2022/07/careers-equality.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 20px 0 0 20px;
+	min-height: 400px;
+}
+
+@media (max-width: 768px) {
+	.careers .career-equality .row {
+		--bs-gutter-x: 0;
+	}
+
+	.careers .career-equality .career-equality-image {
+		border-radius: 30px;
+	}
+}
+
+.careers .career-equality .career-equality-info {
+	max-width: 500px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+@media (max-width: 768px) {
+	.careers .career-equality .career-equality-info {
+		padding: 50px 30px 0;
+	}
+}
+
+.careers .career-equality .career-equality-info h3 {
+	margin-bottom: 30px;
+}
+
+.careers .career-process .career-process-image {
+	background-image: url(../../../uploads/2022/07/careers-recruitment-process.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 0 20px 20px 0;
+	min-height: 400px;
+}
+
+@media (max-width: 768px) {
+	.careers .career-process .row {
+		--bs-gutter-x: 0;
+	}
+
+	.careers .career-process .career-process-image {
+		border-radius: 30px;
+	}
+}
+
+.careers .career-process .career-process-info {
+	max-width: 500px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+@media (max-width: 768px) {
+	.careers .career-process .career-process-info {
+		padding: 50px 30px 0;
+	}
+}
+
+.careers .career-process .career-process-info .ul-circle {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.careers .career-process .career-process-info .ul-circle li {
+	margin: 15px 0;
+}
+
+.careers .career-process .career-process-info .ul-circle li:nth-child(1):before {
+	color: rgba(17, 17, 17, 0.2)
+}
+
+.careers .career-process .career-process-info .ul-circle li:nth-child(2):before {
+	color: rgba(17, 17, 17, 0.3)
+}
+
+.careers .career-process .career-process-info .ul-circle li:nth-child(3):before {
+	color: rgba(17, 17, 17, 0.4)
+}
+
+.careers .career-process .career-process-info .ul-circle li:nth-child(4):before {
+	color: rgba(17, 17, 17, 0.6)
+}
+
+.careers .career-process .career-process-info .ul-circle li:nth-child(5):before {
+	color: rgba(17, 17, 17, 0.8)
+}
+
+.careers .career-process .career-process-info .ul-circle li:nth-child(6):before {
+	color: #111111;
+}
+
+.careers .career-process .career-process-info .ul-circle li:before {
+	content: "\f111";
+	margin-right: 15px;
+	font-family: "Font Awesome 5 Free";
+	font-weight: 400;
+	font-size: 20px;
+}
+
+.careers .career-work img {
+	width: 50px;
+	height: 50px;
+	margin-bottom: 20px;
+}
+
+.careers .career-work h5 {
+	color: #575757;
+	font-weight: 600;
+	letter-spacing: 0;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.careers-recruitment-process-steps .elementor-icon-list-items li:nth-child(1) i {
+	color: rgba(17, 17, 17, 0.2) !important;
+}
+
+
+.career-work .opening {
+	border: 0;
+	border-radius: 0;
+	border-bottom: 1px solid #C4C4C4;
+	text-align: center;
+	padding: 30px 0 25px;
+	height: auto;
+}
+
+.career-work .opening h3 {
+	color: #575757;
+	margin: 0;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.opening:hover {
+	border-bottom: 1px solid #f2f2f2;
+	background: #f2f2f2;
+	color: #111111;
+}
+
+.career-work .opening:hover>.location span,
+.career-work .opening:hover>.location:before {
+	color: #111111;
+}
+
+
+.career-share-cv .btn-bordered-grey {
+	color: #ffffff;
+	margin-top: 20px;
+	padding: 10px 25px;
+	background-color: #111111;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 12px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	border-radius: 20px;
+	font-weight: 600;
+	border: 2px solid #BBC2CC;
+}
+
+
+.career-share-cv .btn-bordered-grey:hover {
+	color: #111111;
+	background-color: #ffffff;
+}
+
+
+
+/* Our Work */
+
+.our-work .page-featured {
+	background-image: url(../../../uploads/2022/08/our-work-header.jpg);
+	background-position: center center;
+}
+
+.our-work .our-work-carecloud .our-work-carecloud-image {
+	background-image: url(../../../uploads/2022/08/our-work-carecloud.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 20px 0 0 20px;
+	min-height: 400px;
+}
+
+.our-work .btn-small i {
+	margin-left: 10px;
+}
+
+.our-work .btn-grey {
+	margin: 0 15px;
+}
+
+.our-work h3 {
+	font-size: 28px;
+}
+
+.our-work-intro {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+@media (max-width: 768px) {
+	.our-work .our-work-carecloud .row {
+		--bs-gutter-x: 0;
+	}
+
+	.our-work .our-work-carecloud .our-work-carecloud-image {
+		border-radius: 20px;
+	}
+}
+
+.our-work .our-work-carecloud .our-work-carecloud-info {
+	max-width: 480px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+
+.our-work .our-work-grenzebach .our-work-grenzebach-image {
+	background-image: url(../../../uploads/2022/08/our-work-grenzebach.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 0 20px 20px 0;
+	min-height: 400px;
+}
+
+@media (max-width: 768px) {
+	.our-work .our-work-grenzebach .row {
+		--bs-gutter-x: 0;
+	}
+
+	.our-work .our-work-grenzebach .our-work-grenzebach-image {
+		border-radius: 20px;
+	}
+}
+
+.our-work .our-work-grenzebach .our-work-grenzebach-info {
+	max-width: 480px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+
+.our-work .our-work-vistage .our-work-vistage-image {
+	background-image: url(../../../uploads/2022/08/our-work-vistage.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 20px 0 0 20px;
+	min-height: 400px;
+}
+
+@media (max-width: 768px) {
+	.our-work .our-work-vistage .row {
+		--bs-gutter-x: 0;
+	}
+
+	.our-work .our-work-vistage .our-work-vistage-image {
+		border-radius: 20px;
+	}
+}
+
+.our-work .our-work-vistage .our-work-vistage-info {
+	max-width: 480px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+
+.our-work .our-work-signature-boston .our-work-signature-boston-image {
+	background-image: url(../../../uploads/2022/08/our-work-signature-boston.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 0 20px 20px 0;
+	min-height: 400px;
+}
+
+@media (max-width: 768px) {
+	.our-work .our-work-signature-boston .row {
+		--bs-gutter-x: 0;
+	}
+
+	.our-work .our-work-signature-boston .our-work-signature-boston-image {
+		border-radius: 20px;
+	}
+}
+
+.our-work .our-work-signature-boston .our-work-signature-boston-info {
+	max-width: 490px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+
+.our-work .our-work-carecloud .our-work-carecloud-info img {
+	height: 50px;
+	width: auto;
+	margin-bottom: 20px;
+	filter: grayscale(100%);
+	opacity: 0.5;
+}
+
+.our-work .our-work-grenzebach .our-work-grenzebach-info img {
+	height: 32px;
+	width: auto;
+	margin-bottom: 20px;
+	filter: grayscale(100%);
+	opacity: 0.3;
+}
+
+.our-work .our-work-vistage .our-work-vistage-info img {
+	height: 22px;
+	width: auto;
+	margin-bottom: 20px;
+	filter: grayscale(100%);
+	opacity: 0.5;
+}
+
+.our-work .our-work-signature-boston .our-work-signature-boston-info img {
+	height: 62px;
+	width: auto;
+	margin-bottom: 20px;
+	filter: grayscale(100%);
+	opacity: 0.5;
+}
+
+.our-work .our-work-carecloud .our-work-carecloud-info:hover img,
+.our-work .our-work-grenzebach .our-work-grenzebach-info:hover img,
+.our-work .our-work-vistage .our-work-vistage-info:hover img,
+.our-work .our-work-signature-boston .our-work-signature-boston-info:hover img {
+	filter: grayscale(0);
+	opacity: 1;
+}
+
+@media (max-width: 768px) {
+
+	.our-work .our-work-carecloud .our-work-carecloud-info,
+	.our-work .our-work-grenzebach .our-work-grenzebach-info,
+	.our-work .our-work-vistage .our-work-vistage-info,
+	.our-work .our-work-signature-boston .our-work-signature-boston-info {
+		padding-bottom: 0;
+	}
+}
+
+
+/* Our Culture */
+
+.our-culture .page-featured {
+	background-image: url(../../../uploads/2021/07/bg-walking-talk.jpg);
+	background-position: center center;
+}
+
+.our-culture .page-featured h2 {
+	max-width: 350px;
+}
+
+.our-culture .our-culture-holacracy-agile img {
+	width: 100%;
+	border-radius: 4px 4px 0 0;
+	display: block;
+}
+
+.our-culture .our-culture-holacracy-agile-info {
+	background: #F5F6F7;
+	border-radius: 0 0 4px 4px;
+	padding: 40px 40px 30px;
+}
+
+.our-culture .our-culture-holacracy-agile-info p {
+	font-size: 14px;
+}
+
+.our-culture-values {
+	background-image: url(../../../uploads/2021/07/bg-agile-teams.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.our-culture-values-image {
+	background-image: url(../../../uploads/2021/07/values-app.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 400px;
+}
+
+.our-culture-values-info {
+	max-width: 500px;
+	margin: auto;
+}
+
+.our-culture-values-info .courage-ul,
+.our-culture-values-info .passion-ul,
+.our-culture-values-info .trust-ul,
+.our-culture-values-info .participation-ul {
+	padding: 0;
+}
+
+.our-culture-values-info .courage-ul li,
+.our-culture-values-info .passion-ul li,
+.our-culture-values-info .trust-ul li,
+.our-culture-values-info .participation-ul li {
+	margin: 3px 0;
+}
+
+.our-culture-values-info img {
+	height: 80px;
+	width: auto;
+	max-width: 100%;
+}
+
+.row.our-culture-values-info {
+	font-size: 14px;
+	align-items: flex-start;
+}
+
+.row.our-culture-values-info .mb-20 {
+	margin-bottom: 30px;
+}
+
+.our-culture-values-info .courage-ul li:before {
+	color: #0850FF;
+}
+
+.our-culture-values-info .passion-ul li:before {
+	color: #ED0D5E;
+}
+
+.our-culture-values-info .trust-ul li:before {
+	color: #00D19F;
+}
+
+.our-culture-values-info .participation-ul li:before {
+	color: #E7C92B;
+}
+
+.our-culture-be-part-info {
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.our-culture-be-part-info .be-part-info-x img {
+	display: inline-block;
+	margin: 0 20px 0 0;
+	width: 60px;
+	vertical-align: sub;
+}
+
+.our-culture-be-part-info .be-part-info-x h3 {
+	display: inline-block;
+	line-height: 1.1;
+}
+
+
+/* Case Study Temenos */
+.cs-temenos .featured {
+	background-image: url(../../../uploads/2022/09/cs-temenos-header.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	box-sizing: border-box;
+	height: 600px;
+	position: relative;
+}
+
+.cs-temenos .featured .container {
+	z-index: 2;
+}
+
+.cs-temenos .featured h1 {
+	max-width: 480px;
+	margin-bottom: 40px;
+}
+
+.cs-temenos .overview .botones .btn {
+	margin-right: 10px;
+}
+
+.cs-temenos .overview .botones .btn i {
+	margin-left: 10px;
+}
+
+.cs-temenos-parallax-one {
+	background-image: url(../../../uploads/2022/09/cs-temenos-parallax-1.jpg);
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 150px 20px !important;
+	box-sizing: border-box;
+}
+
+.cs-temenos-parallax-two {
+	background-image: url(../../../uploads/2022/09/cs-temenos-parallax-2.jpg);
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 150px 20px !important;
+	box-sizing: border-box;
+}
+
+.cs-temenos-lagom {
+	background-image: url(../../../uploads/2022/09/cs-temenos-lagom.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	height: 500px;
+	position: relative;
+	text-align: center;
+}
+
+.cs-temenos-lagom .container-overlay {
+	opacity: 0.75;
+}
+
+.cs-temenos-lagom .row {
+	z-index: 2;
+}
+
+.cs-temenos-current-users {
+	background-image: url(../../../uploads/2022/09/cs-temenos-parallax-3.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	box-sizing: border-box;
+	font-weight: 600;
+	display: flex;
+	position: relative;
+}
+
+.cs-temenos-current-users .container-overlay {
+	opacity: 0.75;
+}
+
+.cs-temenos-current-users .row {
+	z-index: 2;
+}
+
+.cs-temenos-last .cs-temenos-last-buttons {
+	background: #111111;
+	padding: 30px;
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: 600;
+	height: 100%;
+	box-sizing: border-box;
+	text-align: center;
+	border-radius: 4px;
+}
+
+.cs-temenos-last .cs-temenos-last-buttons img {
+	width: 30px;
+	height: auto;
+	vertical-align: bottom;
+	margin: 0 5px 0 0;
+}
+
+/* BLOG SINGLE */
+.new-single article {
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.new-single .new-single-article-header h1 {
+	clear: both;
+	padding-top: 30px;
+}
+
+.new-single .new-single-article-date {
+	color: #999999;
+	font-size: 12px;
+	font-weight: 600;
+}
+
+.new-single .new-single-article-date {
+	float: left;
+	margin-top: 5px;
+}
+
+.new-single .new-single-sharing {
+	float: right;
+}
+
+.new-single .new-single-sharing a {
+	color: #111111;
+	text-decoration: none;
+	display: inline-block;
+	margin: 0 5px;
+}
+
+.new-single .new-single-sharing a.new-single-sharing-facebook:hover {
+	color: #1877F2;
+	text-decoration: none;
+}
+
+.new-single .new-single-sharing a.new-single-sharing-twitter:hover {
+	color: #1d9bf0;
+	text-decoration: none;
+}
+
+.new-single .new-single-sharing a.new-single-sharing-linkedin:hover {
+	color: #0A66C2;
+	text-decoration: none;
+}
+
+.new-single .new-single-sharing a.new-single-sharing-whatsapp:hover {
+	color: #00a884;
+	text-decoration: none;
+}
+
+.new-single-feature-image {
+	margin: 30px auto;
+}
+
+.new-single-feature-image img {
+	border-radius: 10px;
+}
+
+.new-single article img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 10px;
+}
+
+.new-single article .new-single-content h2 {
+	font-size: 20px;
+	margin: 40px 0 10px;
+}
+
+.new-single article .new-single-content h3 {
+	font-size: 20px;
+	margin: 40px 0 10px;
+}
+
+.new-single article .new-single-content h4 {
+	font-size: 20px;
+	font-weight: 600;
+	margin: 40px 0 10px;
+}
+
+.new-single article .new-single-content h5 {
+	font-size: 16px;
+	margin: 40px 0 10px;
+}
+
+.new-single article .new-single-content p a {
+	color: #111111;
+}
+
+
+.new-single-related {
+	margin-top: 80px;
+}
+
+.new-single-related h4 {
+	font-size: 18px;
+	font-weight: 700;
+	margin: 0 0 30px 20px;
+	color: #111111;
+}
+
+.new-single-related-article a {
+	color: #575757;
+	text-decoration: none;
+	margin-bottom: 15px;
+	padding: 20px;
+	align-items: center;
+}
+
+.new-single-related-article a:hover {
+	background: rgba(187, 194, 204, 0.2);
+	border-radius: 10px;
+}
+
+.new-single-related-article h3 {
+	font-size: 22px;
+	line-height: 1.1;
+	font-weight: 600;
+	margin: 15px 0 0;
+}
+
+.new-single-related-article p {
+	font-size: 14px;
+}
+
+.new-single-related-description-date {
+	color: #999999;
+	font-size: 12px;
+	font-weight: 600;
+}
+
+
+.h5-policy {
+	padding-top: 10px;
+	box-sizing: border-box;
+}
+
+.li-policy {
+	padding-top: 10px;
+	box-sizing: border-box;
+	list-style-type: none;
+
+}
+
+
+
+/* Culture Landing */
+
+.culture h3 {
+	background: linear-gradient(to right, #111111, #767D8A);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	display: inline-block;
+	line-height: 1em;
+	font-size: 40px;
+	padding-bottom: 3px;
+}
+
+@media (max-width: 768px) {
+	.culture h3 {
+		font-size: 36px;
+	}
+}
+
+.culture .p-50 {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.culture .page-featured {
+	background-image: url(../../../uploads/2022/09/culture-header.jpg);
+	background-position: center center;
+}
+
+.culture .page-featured .featured-overlay {
+	background: linear-gradient(to right, rgba(17, 17, 17, .85), rgba(17, 17, 17, .0));
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	opacity: 1;
+}
+
+.culture .page-featured h1 {
+	font-size: 60px;
+	line-height: 1;
+}
+
+.culture .page-featured h2 {
+	max-width: 370px;
+	font-size: 20px;
+	line-height: 1.4;
+}
+
+.culture .culture-values {
+	font-size: 14px;
+	padding-top: 80px;
+	padding-bottom: 20px;
+}
+
+.culture .culture-values-courage h5 {
+	color: #0850FF;
+	letter-spacing: -0.5px;
+}
+
+.culture .culture-values-passion h5 {
+	color: #ED0D5E;
+	letter-spacing: -0.5px;
+}
+
+.culture .culture-values-trust h5 {
+	color: #00D19F;
+	letter-spacing: -0.5px;
+}
+
+.culture .culture-values-participation h5 {
+	color: #E7C92B;
+	letter-spacing: -0.5px;
+}
+
+.culture .culture-values-courage p,
+.culture .culture-values-passion p,
+.culture .culture-values-trust p,
+.culture .culture-values-participation p {
+	margin-top: 5px;
+}
+
+.culture .culture-start-purpose .culture-start-purpose-image {
+	background-image: url(../../../uploads/2022/09/culture-purpose.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 0 20px 20px 0;
+	min-height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+}
+
+.culture .culture-start-purpose .culture-start-purpose-image img {
+	z-index: 2;
+	width: 125px;
+	height: auto;
+}
+
+.culture .culture-start-purpose .culture-start-purpose-image .container-overlay {
+	border-radius: 0 20px 20px 0;
+	opacity: 0.3;
+}
+
+@media (max-width: 768px) {
+	.culture .culture-start-purpose .row {
+		--bs-gutter-x: 0;
+	}
+
+	.culture .culture-start-purpose .culture-start-purpose-image,
+	.culture .culture-start-purpose .culture-start-purpose-image .container-overlay {
+		border-radius: 20px;
+	}
+}
+
+.culture .culture-start-purpose .culture-start-purpose-info {
+	max-width: 440px;
+	margin: auto;
+	padding: 80px 30px;
+	font-size: 14px;
+}
+
+.culture .culture-start-purpose .culture-start-purpose-info b {
+	color: #111111;
+	font-weight: 600;
+}
+
+@media (max-width: 768px) {
+	.culture .culture-start-purpose .culture-start-purpose-info {
+		padding: 50px 30px 0;
+		max-width: none;
+	}
+}
+
+.culture .culture-exo .culture-exo-image-1 {
+	background-image: url(../../../uploads/2022/09/culture-exo-1.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 20px;
+	min-height: 400px;
+	height: 100%;
+}
+
+.culture .culture-exo .culture-exo-image-2 {
+	background-image: url(../../../uploads/2022/09/culture-exo-2.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 20px 0 0 20px;
+	min-height: 400px;
+	height: 100%;
+}
+
+@media (max-width: 768px) {
+	.culture .culture-exo .row {
+		--bs-gutter-x: 0;
+	}
+
+	.culture .culture-exo .culture-exo-image-1 {
+		border-radius: 20px;
+	}
+
+	.culture .culture-exo .culture-exo-image-2 {
+		display: none;
+	}
+
+	.culture .culture-exo .gx-5 {
+		--bs-gutter-x: 0;
+	}
+}
+
+.culture .culture-exo .culture-exo-info {
+	max-width: 300px;
+	margin: auto;
+	padding: 80px 30px;
+	font-size: 14px;
+}
+
+@media (max-width: 768px) {
+	.culture .culture-exo .culture-exo-info {
+		padding: 50px 30px 0;
+		max-width: none;
+	}
+}
+
+
+.culture .culture-holocracy .culture-holocracy-image-1 {
+	background-image: url(../../../uploads/2022/09/culture-holocracy-1.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 0 20px 20px 0;
+	min-height: 400px;
+	height: 100%;
+}
+
+.culture .culture-holocracy .culture-holocracy-image-2 {
+	background-image: url(../../../uploads/2022/09/culture-holocracy-2.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 20px;
+	min-height: 400px;
+	height: 100%;
+}
+
+@media (max-width: 768px) {
+	.culture .culture-holocracy .row {
+		--bs-gutter-x: 0;
+	}
+
+	.culture .culture-holocracy .culture-holocracy-image-1 {
+		border-radius: 20px;
+	}
+
+	.culture .culture-holocracy .culture-holocracy-image-2 {
+		display: none;
+	}
+
+	.culture .culture-holocracy .gx-5 {
+		--bs-gutter-x: 0;
+	}
+}
+
+.culture .culture-holocracy .culture-holocracy-info {
+	max-width: 290px;
+	margin: auto;
+	padding: 80px 30px;
+	font-size: 14px;
+}
+
+.culture .culture-holocracy .culture-holocracy-info h4 {
+	color: #767D8A;
+	font-size: 26px;
+}
+
+@media (max-width: 768px) {
+	.culture .culture-holocracy .culture-holocracy-info {
+		padding: 50px 30px 0;
+		max-width: none;
+	}
+}
+
+.culture .culture-remote {
+	padding-top: 50px;
+	padding-bottom: 70px;
+}
+
+.culture .culture-remote h3 {
+	max-width: 450px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.culture .culture-remote p {
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.culture .culture-remote .culture-remote-map img {
+	max-width: 100%;
+	margin: 40px auto 0;
+}
+
+.culture .culture-team {
+	background: #F5F6F7;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.culture .culture-team h4 {
+	font-size: 20px;
+	font-weight: 600;
+	color: #111111;
+	margin: 0 0 5px;
+	line-height: 1em;
+}
+
+.culture .culture-team h5 {
+	font-size: 14px;
+	font-weight: 600;
+	color: #575757;
+	letter-spacing: 0;
+}
+
+.culture .culture-team p {
+	font-size: 14px;
+}
+
+.culture .culture-team .culture-team-juan-image {
+	background-image: url(../../../uploads/2022/10/culture-team-juan-santiago.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 10px;
+	height: 100%;
+}
+
+.culture .culture-team .culture-team-walter-image {
+	background-image: url(../../../uploads/2022/10/culture-team-walter-abrigo.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 10px;
+	height: 100%;
+}
+
+.culture .culture-team .culture-team-gabriela-image {
+	background-image: url(../../../uploads/2022/10/culture-team-gabriela-fernandez.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 10px;
+	height: 100%;
+}
+
+.culture .culture-team .culture-team-celeste-image {
+	background-image: url(../../../uploads/2022/10/culture-team-celeste-torresi.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 10px;
+	height: 100%;
+}
+
+.culture .culture-team .culture-team-sebastian-image {
+	background-image: url(../../../uploads/2022/10/culture-team-sebastian-pereira.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 10px;
+	height: 100%;
+}
+
+@media (max-width: 768px) {
+
+	.culture .culture-team .culture-team-juan-image,
+	.culture .culture-team .culture-team-walter-image {
+		min-height: 300px;
+	}
+}
+
+.culture-team-linkedin {
+	color: #0A66C2;
+	padding: 3px 15px;
+	background-color: transparent;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 12px;
+	letter-spacing: -0.5px;
+	border-radius: 14px;
+	font-weight: 700;
+	border: 2px solid #0A66C2;
+}
+
+.culture-team-linkedin:hover {
+	background-color: #0A66C2;
+	color: #ffffff;
+}

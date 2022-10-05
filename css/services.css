@@ -1,0 +1,813 @@
+/* Digital Commerce */
+
+.digital-commerce .service-featured {
+	background-image: url(../../../uploads/2021/11/digital-commerce-header.jpg);
+	background-position: center center;
+}
+
+.digital-commerce .service-featured h2 {
+	max-width: 600px;
+}
+
+.digital-commerce .digital-commerce-tablet {
+	background-color: #f2f2f2;
+	background-image: url(../../../uploads/2021/11/cv-digitalEcommerce-tablet.svg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.digital-commerce .digital-commerce-info {
+	max-width: 500px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+.digital-commerce .digital-commerce-solutions {
+	background-image: url(../../../uploads/2021/11/digital-commerce-solutions.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	position: relative;
+	display: flex;
+}
+
+.digital-commerce .digital-commerce-solutions .container-overlay {
+	opacity: 0.85;
+}
+
+.digital-commerce .digital-commerce-solutions .container-940 {
+	z-index: 2;
+}
+
+.digital-commerce .digital-commerce-solutions .col-md-2 {
+	height: 80px;
+}
+
+.digital-commerce .technology-stack {
+	background-image: url(../../../uploads/2021/11/digital-commerce-technology-stack.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	padding-top: 100px;
+	padding-bottom: 80px;
+	position: relative;
+	display: flex;
+}
+
+.digital-commerce .technology-stack .container {
+	z-index: 2;
+}
+
+.technology-stack .col-md-3 {
+	text-align: center;
+	margin: 20px auto;
+}
+
+.technology-stack-image {
+	text-align: center;
+	height: 70px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.technology-stack .col-md-3 p {
+	color: #575757;
+	font-size: 12px;
+	font-weight: 600;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.technology-stack h5 {
+	font-size: 16px;
+	color: #111111;
+	font-weight: 600;
+	letter-spacing: -0.5px;
+	margin: 15px auto 40px;
+}
+
+/* Mobility */
+
+.mobility .service-featured {
+	background-image: url(../../../uploads/2022/07/service-mobility-header.jpg);
+	background-position: center center;
+}
+
+.mobility .service-featured h1 {
+	max-width: 700px;
+}
+
+.mobility .service-featured h2 {
+	max-width: 590px;
+	margin-left: 0;
+	margin-right: 0
+}
+
+.mobility .info-recuadro {
+	margin-top: 0;
+}
+
+.mobility .info-recuadro-tres {
+	padding: 30px;
+	text-align: left;
+	font-weight: 400;
+}
+
+.mobility .info-recuadro-tres p {
+	font-weight: 600;
+}
+
+.mobility .mobility-trust {
+	background-image: url(../../../uploads/2022/07/mobility-we-build-trust.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 100px;
+	padding-bottom: 80px;
+	position: relative;
+	display: flex;
+}
+
+.mobility .mobility-trust h3,
+.mobility .mobility-trust p {
+	color: #ffffff;
+}
+
+.mobility .mobility-trust .container-overlay {
+	opacity: 0.75;
+}
+
+.mobility .mobility-trust .container {
+	z-index: 2;
+}
+
+.mobility .mobility-trust .trust img {
+	float: left;
+	margin: 3px 20px 20px 0;
+}
+
+.mobility .mobility-trust .trust p {
+	margin: 0;
+	line-height: 1.3;
+}
+
+.mobility .mobility-help h3 {
+	max-width: 520px;
+	margin: auto;
+}
+
+.mobility-healthcare-image {
+	background-image: url(../../../uploads/2021/11/mobile-woman-tablet.png);
+	background-position: center center;
+	background-size: cover;
+	min-height: 400px;
+}
+
+.mobility-healthcare-image img {
+	width: 245px;
+	height: auto;
+}
+
+.mobility-healthcare-text {
+	background-color: #F2F2F2;
+	padding: 100px 70px;
+	box-sizing: border-box;
+	margin: auto;
+	text-align: left;
+}
+
+.mobility-healthcare-text h4 {
+	max-width: 400px;
+	margin: 40px 0 30px;
+	font-size: 24px;
+	color: #111111;
+	font-weight: 600;
+}
+
+.mobility-convention-image {
+	background-image: url(../../../uploads/2021/11/boston-signature.png);
+	background-position: center center;
+	background-size: cover;
+	min-height: 400px;
+}
+
+.mobility-convention-image img {
+	width: 166px;
+	height: auto;
+}
+
+
+.mobility-convention-text {
+	background-color: #F2F2F2;
+	padding: 100px 70px;
+	box-sizing: border-box;
+	margin: auto;
+	text-align: left;
+}
+
+.mobility-convention-text h4 {
+	max-width: 400px;
+	margin: 40px 0 30px;
+	font-size: 24px;
+	color: #111111;
+	font-weight: 600;
+}
+
+/* Agile */
+
+.agile .service-featured {
+	background-image: url(../../../uploads/2022/07/service-agile-header.jpg);
+	background-position: center center;
+}
+
+.agile .service-featured h2 {
+	max-width: 840px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.agile .agile-benefits p {
+	max-width: 365px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.agile .agile-benefits i {
+	font-size: 40px;
+	color: #999999;
+}
+
+.agile .agile-benefits .col-md-3 p {
+	font-weight: 600;
+}
+
+.agile .agile-regular-box {
+	padding: 30px;
+	border: 2px solid #ffffff;
+	font-weight: 600;
+	box-sizing: border-box;
+	height: 100%;
+	max-width: 400px;
+	margin: 0 auto 20px;
+	color: #ffffff;
+}
+
+.agile .agile-way-box {
+	padding: 30px;
+	background-color: rgba(255, 255, 255, 0.9);
+	font-weight: 600;
+	box-sizing: border-box;
+	height: 100%;
+	max-width: 400px;
+	margin: 0 auto 20px;
+}
+
+.agile .agile-regular-box h4 {
+	font-size: 30px;
+	color: #ffffff;
+}
+
+.agile .agile-way-box h4 {
+	font-size: 30px;
+	color: #111111;
+}
+
+.agile .agile-regular {
+	background-image: url(../../../uploads/2022/07/agile-regular-way.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.agile .agile-way {
+	background-image: url(../../../uploads/2022/07/agile-way.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.agile .info-recuadro-tres {
+	text-align: left;
+	padding: 30px 30px 10px;
+}
+
+
+/* Data Science */
+
+.data-science .service-featured {
+	background-image: url(../../../uploads/2022/02/data-science-header-scaled.jpg);
+	background-position: center center;
+}
+
+.data-science .service-featured h2 {
+	max-width: 840px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.data-science .data-science-info {
+	max-width: 500px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+.data-science .data-science-transform {
+	background-image: url(../../../uploads/2022/02/data-science-solutions.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 30px 0 0 30px;
+	min-height: 400px;
+}
+
+@media (max-width: 768px) {
+	.data-science .data-science-transform-data .row {
+		--bs-gutter-x: 0;
+	}
+
+	.data-science .data-science-transform {
+		border-radius: 30px;
+	}
+}
+
+.data-science .data-science-challenges {
+	background: #f9f9f9;
+}
+
+.data-science .data-science-challenges i {
+	font-size: 40px;
+	color: #111111;
+}
+
+.data-science .data-science-how {
+	background-image: url(../../../uploads/2022/02/data-science-steps.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	padding-top: 100px;
+	padding-bottom: 80px;
+	box-sizing: border-box;
+}
+
+.data-science .data-science-how .filled-box {
+	background-color: #ffffff;
+	padding: 30px 30px 10px;
+	height: 100%;
+	box-sizing: border-box;
+}
+
+.data-science .data-science-how .filled-box h4,
+.data-science .data-science-how .filled-box p {
+	color: #111111;
+}
+
+
+/* Custom Software */
+
+.custom-software .service-featured {
+	background-image: url(../../../uploads/2022/07/custom-software-header.jpg);
+	background-position: center center;
+}
+
+.custom-software .service-featured h1 {
+	max-width: 600px;
+}
+
+.custom-software .service-featured h2 {
+	max-width: 520px;
+}
+
+.custom-software .info-recuadro {
+	margin-top: 0;
+}
+
+.custom-software .info-recuadro-tres {
+	text-align: left;
+	padding: 30px 30px 10px;
+}
+
+.custom-software .main-technologies {
+	background-image: url(../../../uploads/2021/11/digital-commerce-technology-stack.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	padding-top: 100px;
+	padding-bottom: 80px;
+	position: relative;
+	display: flex;
+}
+
+.custom-software .main-technologies .container {
+	z-index: 2;
+}
+
+.custom-software .main-technologies .col-md-2,
+.custom-software .main-technologies .col-md-1 {
+	text-align: center;
+	margin: 20px auto;
+}
+
+.main-technologies-image {
+	text-align: center;
+	height: 70px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	filter: grayscale(1);
+}
+
+.main-technologies-image:hover {
+	text-align: center;
+	height: 70px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	filter: grayscale(0);
+}
+
+.custom-software .main-technologies .main-technologies-image img {
+	max-width: 100%;
+}
+
+.custom-software .main-technologies .col-4:nth-child(1) .main-technologies-image img {
+	max-width: 100%;
+}
+
+
+.custom-software .main-technologies .col-md-2 p,
+.custom-software .main-technologies .col-md-1 p {
+	color: #575757;
+	font-size: 12px;
+	font-weight: 600;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.custom-software .main-technologies h5 {
+	font-size: 16px;
+	color: #111111;
+	font-weight: 600;
+	letter-spacing: -0.5px;
+	margin: 15px auto 40px;
+}
+
+/* Digital Transformation */
+
+.digital-transformation .service-featured {
+	background-image: url(../../../uploads/2022/03/digital-transformation-header.jpg);
+	background-position: center center;
+}
+
+@media (max-width: 768px) {
+	.digital-transformation .service-featured h1 {
+		font-size: 40px;
+	}
+
+	.digital-transformation .service-featured h2 {
+		font-size: 24px;
+	}
+}
+
+.digital-transformation .service-featured h2 {
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.digital-transformation .technology-powerhouse-info {
+	max-width: 500px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+@media (max-width: 768px) {
+	.digital-transformation .technology-powerhouse-info {
+		max-width: 100%;
+		padding: 0 30px 70px;
+	}
+}
+
+.digital-transformation .technology-powerhouse-image {
+	background-image: url(../../../uploads/2022/03/digital-transformation-powerhouse.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 30px 0 0 30px;
+	min-height: 400px;
+}
+
+@media (max-width: 768px) {
+	.digital-transformation .technology-powerhouse .row {
+		--bs-gutter-x: 0;
+	}
+
+	.digital-transformation .technology-powerhouse-image {
+		border-radius: 30px;
+	}
+}
+
+.digital-transformation .digital-transformation-action {
+	background-image: url(../../../uploads/2022/03/digital-transformation-in-action.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.digital-transformation-trends {
+	background-image: url(../../../uploads/2022/09/digital-transformation-trends-bg.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+@media (min-width: 768px) {
+	.digital-transformation-trends .col-md-2 {
+		width: 20%;
+	}
+}
+
+.digital-transformation .digital-transformation-trends i {
+	font-size: 40px;
+	color: #111111;
+}
+
+.digital-transformation .enabling-digital-transformation-info {
+	max-width: 500px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+@media (max-width: 768px) {
+	.digital-transformation .enabling-digital-transformation-info {
+		max-width: 100%;
+		padding: 0 30px 70px;
+	}
+}
+
+.digital-transformation .enabling-digital-transformation-image {
+	background-image: url(../../../uploads/2022/03/digital-transformation-enabling.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 30px 0 0 30px;
+	min-height: 400px;
+}
+
+@media (max-width: 768px) {
+	.digital-transformation .enabling-digital-transformation .row {
+		--bs-gutter-x: 0;
+	}
+
+	.digital-transformation .enabling-digital-transformation-image {
+		border-radius: 30px;
+	}
+}
+
+/* DevOps */
+
+.devops .service-featured {
+	background-image: url(../../../uploads/2022/03/devops-header.jpg);
+	background-position: center center;
+}
+
+.devops .service-featured h2 {
+	max-width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.devops .devops-what-info {
+	max-width: 500px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+@media (max-width: 768px) {
+	.devops .devops-what-info {
+		max-width: 100%;
+		padding: 0 30px 70px;
+	}
+}
+
+.devops .devops-what-image {
+	background-image: url(../../../uploads/2022/03/devops-as-a-service.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 30px 0 0 30px;
+	min-height: 400px;
+}
+
+@media (max-width: 768px) {
+	.devops .devops-what .row {
+		--bs-gutter-x: 0;
+	}
+
+	.devops .devops-what-image {
+		border-radius: 30px;
+	}
+}
+
+.devops .devops-principles .info-recuadro-tres {
+	text-align: left;
+	padding: 35px 35px 30px;
+}
+
+.devops .devops-principles .info-recuadro-tres .simple-ul {
+	font-weight: 400;
+	color: #575757;
+}
+
+.devops .devops-how {
+	background-image: url(../../../uploads/2022/03/devops-process.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.devops .devops-how i {
+	font-size: 40px;
+	color: #ffffff;
+}
+
+.devops .devops-trust-info {
+	max-width: 500px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+@media (max-width: 768px) {
+	.devops .devops-trust-info {
+		max-width: 100%;
+		padding: 0 30px 70px;
+	}
+}
+
+.devops .devops-trust-image {
+	background-image: url(../../../uploads/2022/03/devops-grenzebach-trust.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 0 30px 30px 0;
+	min-height: 400px;
+}
+
+@media (max-width: 768px) {
+	.devops .devops-trust .row {
+		--bs-gutter-x: 0;
+	}
+
+	.devops .devops-trust-image {
+		border-radius: 30px;
+	}
+}
+
+.devops .stephan-kranz img {
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+.devops .stephan-kranz div {
+	display: inline-block;
+	vertical-align: middle;
+	line-height: 1.3;
+}
+
+.devops .stephan-kranz div p {
+	margin: 0;
+	padding: 0;
+}
+
+
+
+/* CRM Solutions  */
+
+.crm-solutions .service-featured {
+	background-image: url(../../../uploads/2022/03/crm-solutions-header.jpg);
+	background-position: center center;
+}
+
+@media (max-width: 768px) {
+	.crm-solutions .service-featured h1 {
+		font-size: 40px;
+	}
+
+	.crm-solutions .service-featured h2 {
+		font-size: 24px;
+	}
+}
+
+.crm-solutions .service-featured h2 {
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.crm-solutions .technology-crm-info {
+	max-width: 500px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+@media (max-width: 768px) {
+	.crm-solutions .technology-crm-info {
+		max-width: 100%;
+		padding: 0 30px 70px;
+	}
+}
+
+.crm-solutions .technology-crm-image {
+	background-image: url(../../../uploads/2022/03/crm-solutions-custom-services.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 30px 0 0 30px;
+	min-height: 400px;
+}
+
+@media (max-width: 768px) {
+	.crm-solutions .technology-crm .row {
+		--bs-gutter-x: 0;
+	}
+
+	.crm-solutions .technology-crm-image {
+		border-radius: 30px;
+	}
+}
+
+.crm-solutions .crm-solutions-action {
+	background-image: url(../../../uploads/2022/03/crm-solutions-technologies.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.crm-solutions-trends {
+	background: #f9f9f9;
+}
+
+@media (min-width: 768px) {
+	.crm-solutions-trends .col-md-2 {
+		width: 20%;
+	}
+}
+
+.crm-solutions .crm-solutions-trends i {
+	font-size: 40px;
+	color: #111111;
+}
+
+.crm-solutions .enabling-crm-solutions-info {
+	max-width: 500px;
+	margin: auto;
+	padding: 70px 30px;
+}
+
+@media (max-width: 768px) {
+	.crm-solutions .enabling-crm-solutions-info {
+		max-width: 100%;
+		padding: 0 30px 70px;
+	}
+}
+
+.crm-solutions .enabling-crm-solutions-image {
+	background-image: url(../../../uploads/2022/03/crm-solutions-migration.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 30px 0 0 30px;
+	min-height: 400px;
+}
+
+@media (max-width: 768px) {
+	.crm-solutions .enabling-crm-solutions .row {
+		--bs-gutter-x: 0;
+	}
+
+	.crm-solutions .enabling-crm-solutions-image {
+		border-radius: 30px;
+	}
+}

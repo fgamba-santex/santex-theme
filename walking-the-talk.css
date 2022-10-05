@@ -1,0 +1,272 @@
+.values-container {
+    margin-bottom: 60px;
+}
+.values-item-img {
+    width:85px;
+    height:80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 16px;
+    background-size: cover;
+    display: block;
+}
+
+
+.values-item > p{
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: center;
+    color: #3d3d3d;
+    margin-top: 16px;
+}
+.values-item > span{
+    opacity: 0.8;
+    font-family: 'Neuton', serif;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.29;
+    letter-spacing: 0.6px;
+    text-align: center;
+    color: #000000;
+}
+.values-item {
+    width: 287px;
+    float: left;
+    margin-right: 16px;
+}
+.values-item:last-child {
+    margin-right: 0px;
+}
+.values-item:nth-child(2n) {
+    margin-top: 94px;
+}
+.amp-img{
+    width: 50px;
+    height: 101px;
+
+}
+.amp {
+    float: left;
+    margin-left: 90px;
+    margin-right: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:250px;
+    width:50px;
+}
+
+.walking-block-img {
+
+
+}
+
+.boards > .walking-block-img {
+    width: 100%;
+    height:215px;
+    margin-top: 24px;
+    background: url("./assets/boards/img_boards.png") no-repeat center center;
+    background-size: cover;
+}
+
+.agile-teams > .walking-block-img {
+    width: 100%;
+    height:215px;
+    margin-top: 24px;
+    background: url("./assets/boards/img_agile.png") no-repeat center center;
+    background-size: cover;
+}
+
+.walking-block-container {
+    max-width: 1034px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+.walking-block > span {
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.29;
+    letter-spacing: 0.6px;
+    text-align: center;
+    color: #000000;
+    font-family: 'Neuton', serif;
+}
+.walking-block > p {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: center;
+    color: #3d3d3d;
+    margin-top: 40px;
+}
+.walking-block {
+    float: left;
+    width: 386px;
+}
+
+.boards {
+    float: right;
+}
+.walking-title {
+    font-size: 48px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.08;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #000000;
+    font-family: 'Neuton', serif;
+}
+.walking-description {
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #3d3d3d;
+    font-family: 'Lato', sans-serif;
+}
+
+.walking-sub-title {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.11;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+    font-family: 'Neuton', serif;
+}
+
+.our-purpose-container {
+    max-width: 994px;
+}
+.our-purpose {
+    font-weight: bold;
+    font-style: italic;
+}
+
+@media(max-width: 1227px) {
+    .values-container {
+        width: 622px;
+    }
+    .values-item {
+        margin-bottom: 24px;
+    }
+    .values-item:last-child {
+        margin-right: 0px;
+    }
+    .values-item:nth-child(2n) {
+        margin-top: 0px;
+        margin-right: 0px;
+    }
+}
+
+@media(max-width: 622px) {
+    .values-container {
+        width: 319px;
+    }
+    .values-item:last-child {
+        margin-right: 0px;
+    }
+    .values-item:nth-child(2n) {
+        margin-top: 0px;
+        margin-right: 0px;
+    }
+}
+
+@media(max-width: 953px) {
+    .amp {
+        display: none;
+    }
+    .walking-block {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .walking-block-container {
+        max-width: 410px;
+        padding-right: 8px;
+        padding-left: 8px;
+    }
+}
+
+
+
+@media(max-width: 1033px) {
+    .amp {
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+}
+
+@media all and (-webkit-min-device-pixel-ratio : 1.5),
+all and (-o-min-device-pixel-ratio: 3/2),
+all and (min--moz-device-pixel-ratio: 1.5),
+all and (min-device-pixel-ratio: 1.5) {
+
+
+    .boards > .walking-block-img {
+        background: url("./assets/boards/img_boards@2x.png") no-repeat center center;
+        background-size: cover;
+    }
+
+    .agile-teams > .walking-block-img {
+        background: url("./assets/boards/img_agile@2x.png") no-repeat center center;
+        background-size: cover;
+    }
+}
+
+@media only screen and (-o-min-device-pixel-ratio: 9/4),
+only screen and (-webkit-min-device-pixel-ratio: 2.25),
+only screen and (min-device-pixel-ratio: 2.25),
+only screen and (min-resolution: 2.25dppx) {
+
+    .boards > .walking-block-img {
+        background: url("./assets/boards/img_boards@3x.png") no-repeat center center;
+        background-size: cover;
+    }
+
+    .agile-teams > .walking-block-img {
+        background: url("./assets/boards/img_agile@3x.png") no-repeat center center;
+        background-size: cover;
+    }
+}
+@media(max-width: 410px) {
+    .walking-block-container {
+        max-width: 320px;
+    }
+
+    .walking-block {
+        margin-left: auto;
+        margin-right: auto;
+        width: 287px;
+        float: none;
+    }
+
+    .boards > .walking-block-img {
+        background-size: contain;
+    }
+
+    .agile-teams > .walking-block-img {
+        background-size: contain;
+    }
+}

@@ -1,0 +1,376 @@
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Neuton:200,300,400,400i,700,800');
+.opening > a{
+    font-family: 'Neuton', serif;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.08;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+}
+
+.opening:hover > a {
+    color: #ff3232;
+    /*text-decoration: underline;*/
+}
+
+
+.opening > a:hover {
+    text-decoration: none;
+}
+.opening:hover {
+    border-radius: 8px;
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+.opening {
+    width: 253px;
+    max-width:253px;
+    height:109px;
+    border-radius: 8px;
+    padding-left: 24px;
+    padding-top: 24px;
+    margin:8px;
+    float: left;
+    cursor: pointer;
+    border: 1px solid #f1f1f1;
+    border-left: 8px solid #ff3232;
+}
+
+
+.opening:nth-child(5n) {
+    margin-right: 0px;
+}
+
+.opening > .location {
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #3d3d3d;
+}
+.opening > .location:before {
+    content: '\f3c5';
+    font-family: "Font Awesome 5 Free";
+    display: inline-block;
+    padding-right: 3px;
+    vertical-align: middle;
+    font-weight: 900;
+    padding-bottom: 4px;
+    font-size: 14px;
+}
+#wrapper {
+    width: 100%;
+    max-width:1228px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+#wrapper > h1 {
+    display: none;
+}
+#wrapper > #logo {
+    display: none;
+}
+
+#board_title {
+    display: none;
+}
+
+@media (max-width: 1220px) {
+    /*#wrapper {*/
+        /*max-width: 911px;*/
+    /*}*/
+    /*.opening:nth-child(5n) {*/
+        /*margin-right: 0px;*/
+    /*}*/
+
+    /*.opening:nth-child(4n) {*/
+        /*margin-right: 0px;*/
+    /*}*/
+}
+
+@media (max-width: 910px) {
+    #wrapper {
+        max-width: 602px;
+    }
+
+    /*.opening:nth-child(4n) {*/
+        /*margin-right: 16px;*/
+    /*}*/
+    /*.opening:nth-child(3n) {*/
+        /*margin-right: 0px;*/
+    /*}*/
+}
+
+@media (max-width: 601px) {
+    #wrapper {
+        max-width: 300px;
+
+    }
+
+    /*.opening:nth-child(3n) {*/
+        /*margin-right: 16px;*/
+    /*}*/
+
+    /*.opening {*/
+        /*margin-right: 0px;*/
+    /*}*/
+
+
+}
+
+.level-0 > h3 {
+    display: none !important;
+}
+
+.level-0 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+
+/*Single Job Page*/
+
+#wrapper {
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 100%;
+    max-width: 100%;
+}
+
+#app_body {
+        max-width: 100% !important;
+    padding-left: 0px !important;
+}
+
+
+#app_body > #header {
+    max-width: 792px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-right: 0px;
+    font-family: 'Lato', sans-serif;
+
+}
+
+
+#app_body > #header > .app-title {
+    font-family: 'Neuton', serif;
+    font-size: 48px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.08;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #000000;
+}
+
+#app_body > #header > .location {
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: center;
+    color: #3d3d3d;
+    font-family: 'Lato', sans-serif;
+}
+
+
+#app_body > #header > .location:before {
+    content: '\f3c5';
+    font-family: "Font Awesome 5 Free";
+    display: inline-block;
+    padding-right: 3px;
+    vertical-align: middle;
+    font-weight: 900;
+    padding-bottom: 4px;
+    font-size: 14px;
+}
+
+#app_body > #content {
+    max-width: 792px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #3d3d3d;
+    font-family: 'Lato', sans-serif;
+    padding-left: 16px;
+}
+
+#app_body > #content > ul li span {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #3d3d3d;
+}
+
+#app_body > #content > ul li {
+    /* Bullet color */
+    color: #ff3232; /
+    list-style-type: disc;
+}
+
+
+#application {
+    max-width:100%;
+}
+
+#main_fields {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#main_fields > .heading{
+    font-family: 'Neuton', serif;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.11;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+    float: none;
+}
+
+.IN-Awli-widget {
+    text-align: center;
+    width: 100% !important;
+}
+
+/*.IN-Awli-widget > span:first-child {*/
+ /*width: 100% !important;*/
+/*}*/
+
+/*.IN-Awli-widget > span > iframe {*/
+    /*width: 300px !important;*/
+/*}*/
+
+/*.awli-wrapper {*/
+    /*width: 100% !important;*/
+    /*text-align: center !important;*/
+
+/*}*/
+
+#main_fields > .required-fields {
+    display: none;
+}
+#apply_with_buttons > div:first-child {
+    width:100% !important;
+}
+
+#main_fields > .field {
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.33;
+    letter-spacing: 0.3px;
+    text-align: left;
+    color: #000000;
+}
+
+#main_fields > .field > input[type=text] {
+    width: 450px !important;
+    height: 32px !important;
+    border-radius: 24px !important;
+    background-color: #ffffff !important;
+}
+
+#custom_fields {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+#custom_fields > .field {
+    text-align: left;
+    overflow-x: hidden;
+}
+#custom_fields > .field > label {
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.33;
+    letter-spacing: 0.3px;
+    text-align: left;
+    color: #000000;
+}
+
+#custom_fields > .field > label >input[type=text]{
+    width:589px;
+    border-radius: 24px;
+    background-color: #ffffff;
+}
+
+
+#submit_buttons > #submit_app {
+    width: 100%;
+    height: 48px;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+    background-color: #ff3232;
+    font-family: 'Lato', sans-serif !important;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.43;
+    letter-spacing: 2.8px;
+    text-align: center;
+    color: #ffffff;
+    border-radius: 45px;
+}
+#submit_buttons {
+    text-align: center;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+#application_form {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+

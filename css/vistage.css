@@ -1,0 +1,178 @@
+/* Vistage */
+.vistage .featured {
+	background-image: url(../../../uploads/2021/11/cs-vistage-header.jpg);
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	box-sizing: border-box;
+	height: 600px;
+	position: relative;
+}
+
+.vistage .featured .container {
+	z-index: 2;
+}
+
+.vistage .featured h1 {
+	max-width: 490px;
+}
+
+.vistage .featured img {
+	margin: 40px 0 0;
+}
+
+.vistage .info-recuadro-uno,
+.vistage .info-recuadro-dos,
+.vistage .info-recuadro-tres {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 30px 40px;
+}
+
+.vistage .info-recuadro-uno p,
+.vistage .info-recuadro-dos p,
+.vistage .info-recuadro-tres p {
+	font-size: 18px;
+	font-weight: 600;
+	margin: 0;
+}
+
+.vistage-parallax-overview {
+	background-image: url(../../../uploads/2021/11/cs-vistage-scaling-up.jpg);
+	background-position: top center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 150px 20px !important;
+	box-sizing: border-box;
+}
+
+.vistage .info-recuadro {
+	margin: 40px 0;
+}
+
+.vistage .botones {
+	text-align: center;
+	padding: 40px 0;
+}
+
+.vistage .botones .boton {
+	padding: 9px 25px 10px;
+	font-size: 14px;
+	font-weight: 600;
+	color: #ffffff;
+	border-radius: 19px;
+	margin: 0 10px 10px 0;
+	display: inline-block;
+}
+
+.vistage .botones .boton:nth-child(even) {
+	background: #575757;
+}
+
+.vistage .botones .boton:nth-child(odd) {
+	background: #111111;
+}
+
+.vistage .vistage-delivering {
+	background-image: url(../../../uploads/2021/11/cs-vistage-delivering.jpg);
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	display: flex;
+	padding-top: 100px;
+	padding-bottom: 90px;
+}
+
+.vistage .vistage-delivering .container-940 {
+	z-index: 2;
+}
+
+.vistage .vistage-delivering h3 {
+	max-width: 380px;
+}
+
+.vistage .vistage-parallax-remote {
+	background-image: url(../../../uploads/2022/06/vistage-parallax-remote.jpg);
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 150px 20px !important;
+	box-sizing: border-box;
+}
+
+.vistage-cultural-image {
+	background-image: url(../../../uploads/2021/11/cs-vistage-cultural-fit.jpg);
+	background-position: center center;
+	background-size: cover;
+	min-height: 400px;
+}
+
+.vistage-cultural-text {
+	background-color: #F2F2F2;
+	padding: 100px 70px;
+	box-sizing: border-box;
+	margin: auto;
+}
+
+.vistage .botones-white {
+	padding-top: 30px;
+}
+
+.vistage .botones-white .boton {
+	padding: 9px 20px 10px;
+	font-size: 14px;
+	font-weight: 600;
+	background-color: #ffffff;
+	color: #111111;
+	border-radius: 19px;
+	margin: 0 10px 10px 0;
+	display: inline-block;
+}
+
+.vistage .botones-white .boton:before {
+	content: "\f00c";
+	font-family: "Font Awesome 5 Free";
+	font-weight: 900;
+	color: #999999;
+	margin-right: 10px;
+}
+
+.vistage .testimonials {
+	padding-top: 40px;
+}
+
+.testimonial-phrase {
+	max-width: 560px;
+	margin: 20px auto;
+}
+
+.testimonial-phrase img {
+	float: left;
+	display: block;
+	height: auto;
+	width: 35px;
+	margin: 5px 25px 0 0;
+}
+
+.testimonial-phrase .testimonial {
+	overflow: hidden;
+	text-align: left;
+}
+
+.testimonial-phrase i {
+	font-weight: 700;
+	color: #111111;
+	font-size: 18px;
+}
+
+.testimonial-phrase .testimonial-author {
+	color: #575757;
+	margin: 0;
+	font-size: 18px;
+}

@@ -1,0 +1,258 @@
+/* Signature Boston */
+.signature-boston .featured {
+	background-image: url(../../../uploads/2022/01/cs-mcc-header.jpg);
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	box-sizing: border-box;
+	height: 600px;
+	position: relative;
+	text-align: center;
+}
+
+.signature-boston .featured .container {
+	z-index: 2;
+}
+
+.signature-boston .featured h1 {
+	max-width: 550px;
+	margin: auto;
+}
+
+.signature-boston .featured img {
+	margin: 0 0 40px;
+}
+
+.signature-boston .info-recuadro .col-md-4 {
+	margin: 20px auto 30px;
+}
+
+.signature-boston .info-recuadro-uno,
+.signature-boston .info-recuadro-dos,
+.signature-boston .info-recuadro-tres {
+	padding: 30px 40px;
+	border: 2px solid #C4C4C4;
+}
+
+.signature-boston .info-recuadro-uno p,
+.signature-boston .info-recuadro-dos p,
+.signature-boston .info-recuadro-tres p {
+	font-size: 18px;
+	color: #111111;
+	font-weight: 600;
+	margin: 0;
+}
+
+.signature-boston .info-recuadro-uno img,
+.signature-boston .info-recuadro-dos img,
+.signature-boston .info-recuadro-tres img {
+	margin: -70px auto 20px;
+	display: block;
+}
+
+
+.signature-boston-parallax-overview {
+	background-image: url(../../../uploads/2022/01/cs-mcc-bg.jpg);
+	background-position: bottom center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 150px 20px !important;
+	box-sizing: border-box;
+}
+
+.signature-boston-parallax-adapting {
+	background-image: url(../../../uploads/2022/01/cs-mcc-mobile.jpg);
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 150px 20px !important;
+	box-sizing: border-box;
+}
+
+.signature-boston .info-recuadro {
+	margin: 40px 0;
+}
+
+.signature-boston-streamlining {
+	font-size: 15px;
+}
+
+.signature-boston-streamlining h3 {
+	max-width: 500px;
+	margin: 0 auto 60px;
+}
+
+.signature-boston .col-problem {
+	margin: 20px 0;
+}
+
+.signature-boston .content-problem {
+	border-bottom: 2px solid #C4C4C4;
+	height: 100%;
+}
+
+.signature-boston .content-problem h4 {
+	color: #999999;
+	font-size: 20px;
+}
+
+.signature-boston .content-problem p {
+	color: #888888;
+	font-weight: 400;
+}
+
+.signature-boston .col-challenge {
+	margin: 20px 0;
+}
+
+.signature-boston .content-challenge {
+	border-bottom: 2px solid #575757;
+	height: 100%;
+}
+
+.signature-boston .content-challenge h4 {
+	color: #575757;
+	font-size: 20px;
+}
+
+.signature-boston .content-challenge p {
+	color: #575757;
+}
+
+.signature-boston .col-solution {
+	margin: 20px 0;
+}
+
+.signature-boston .content-solution {
+	border-bottom: 2px solid #111111;
+	height: 100%;
+}
+
+.signature-boston .content-solution h4 {
+	color: #111111;
+	font-size: 20px;
+}
+
+.signature-boston .content-solution p {
+	color: #111111;
+}
+
+
+.signature-boston-remaining {
+	font-size: 15px;
+}
+
+.signature-boston-remaining h3 {
+	max-width: 600px;
+	margin: 0 auto 60px;
+}
+
+.signature-boston .black .content-problem {
+	border-bottom: 2px solid #999999;
+	height: 100%;
+}
+
+.signature-boston .black .content-problem h4 {
+	color: #999999;
+	font-size: 20px;
+}
+
+.signature-boston .black .content-problem p {
+	color: #999999;
+	font-weight: 400;
+}
+
+.signature-boston .black .content-challenge {
+	border-bottom: 2px solid #c4c4c4;
+	height: 100%;
+}
+
+.signature-boston .black .content-challenge h4 {
+	color: #c4c4c4;
+	font-size: 20px;
+}
+
+.signature-boston .black .content-challenge p {
+	color: #c4c4c4;
+}
+
+.signature-boston .black .content-solution {
+	border-bottom: 2px solid #ffffff;
+	height: 100%;
+}
+
+.signature-boston .black .content-solution h4 {
+	color: #ffffff;
+	font-size: 20px;
+}
+
+.signature-boston .black .content-solution p {
+	color: #ffffff;
+}
+
+.signature-boston-automating {
+	font-size: 15px;
+}
+
+.signature-boston-automating h3 {
+	margin: 0 auto 60px;
+}
+
+.signature-boston .signature-boston-parallax-solution {
+	background-image: url(../../../uploads/2022/01/cs-mcc-mobile2.jpg);
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 150px 20px;
+	box-sizing: border-box;
+}
+
+.signature-boston-results {
+	background-image: url(../../../uploads/2022/01/cs-mcc-results.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	height: 600px;
+	position: relative;
+	text-align: center;
+}
+
+.signature-boston-results .container-overlay {
+	opacity: 0.75;
+}
+
+.signature-boston-results .row {
+	z-index: 2;
+}
+
+.signature-boston-results h3 {
+	font-size: 40px;
+}
+
+.signature-boston-results img {
+	width: 40px;
+	height: 40px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.signature-boston-results h4 {
+	font-size: 30px;
+}
+
+.signature-boston-results p {
+	font-weight: 600;
+}

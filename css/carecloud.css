@@ -1,0 +1,185 @@
+/* Carecloud */
+.carecloud .featured {
+	background-image: url(../../../uploads/2021/08/cs-cc-bg-main.jpg);
+	background-position: center left;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	align-items: flex-end;
+	padding-bottom: 90px;
+	box-sizing: border-box;
+	height: 600px;
+}
+
+.carecloud .featured p {
+	font-size: 18px;
+	color: #999999;
+	margin: 10px 0;
+}
+
+.carecloud .featured h1 {
+	font-size: 24px;
+	font-weight: 400;
+	margin-top: 30px;
+}
+
+.carecloud .featured h1 b {
+	font-size: 32px;
+	font-weight: 700;
+}
+
+.carecloud h3 {
+	line-height: 1.1;
+}
+
+.info-recuadro {
+	margin-top: 50px
+}
+
+.info-recuadro-uno {
+	padding: 35px 30px 30px;
+	border: 2px solid #888888;
+	text-align: center;
+	font-weight: 600;
+	margin-bottom: 20px;
+	box-sizing: border-box;
+	height: 100%;
+}
+
+.info-recuadro-uno h4,
+.info-recuadro-uno p {
+	color: #888888;
+}
+
+.info-recuadro-dos {
+	padding: 35px 30px 30px;
+	border: 2px solid #575757;
+	text-align: center;
+	font-weight: 600;
+	margin-bottom: 20px;
+	box-sizing: border-box;
+	height: 100%;
+}
+
+.info-recuadro-dos h4,
+.info-recuadro-dos p {
+	color: #575757;
+}
+
+.info-recuadro-tres {
+	padding: 35px 15px 30px;
+	border: 2px solid #111111;
+	text-align: center;
+	font-weight: 600;
+	margin-bottom: 20px;
+	box-sizing: border-box;
+	height: 100%;
+}
+
+.info-recuadro-tres h4,
+.info-recuadro-tres p {
+	color: #111111;
+}
+
+.overview {
+	padding-top: 70px;
+	padding-bottom: 30px;
+	box-sizing: border-box;
+}
+
+
+.parallax-phrase {
+	background-image: url(../../../uploads/2021/08/cs-cc-solution.jpg);
+	background-position: top center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 100px 20px;
+	box-sizing: border-box;
+}
+
+.parallax-phrase p {
+	background: #111111;
+	border: 2px solid #ffffff;
+	font-size: 18px;
+	color: #ffffff;
+	text-align: center;
+	font-weight: 600;
+	padding: 40px 50px;
+	max-width: 520px;
+	margin: 0 auto;
+	box-sizing: border-box;
+}
+
+.parallax-coding {
+	background-image: url(../../../uploads/2021/08/cs-cc-coding-standars.jpg);
+	background-position: top center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 125px 20px;
+	box-sizing: border-box;
+}
+
+.parallax-agile {
+	background-image: url(../../../uploads/2021/08/cs-cc-agile-development-processes.jpg);
+	background-position: top center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 125px 20px;
+	box-sizing: border-box;
+}
+
+.parallax-devops {
+	background-image: url(../../../uploads/2021/08/cs-cc-high-performing-devops.jpg);
+	background-position: top center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 125px 20px;
+	box-sizing: border-box;
+}
+
+.carecloud-problem-image {
+	background-image: url(../../../uploads/2021/08/cs-cc-shortage-development-talent.jpg);
+	background-position: center center;
+	background-size: cover;
+	min-height: 400px;
+}
+
+.carecloud-problem-text {
+	background-color: #F2F2F2;
+	padding: 100px 70px;
+	box-sizing: border-box;
+	margin: auto;
+}
+
+.santex-carecloud-image {
+	background-image: url(../../../uploads/2021/08/cs-cc-success.jpg);
+	background-position: center center;
+	background-size: cover;
+	min-height: 400px;
+}
+
+.carecloud-according {
+	padding-top: 40px;
+	padding-bottom: 60px;
+}
+
+.santex-carecloud-text {
+	background-color: #F2F2F2;
+	font-size: 18px;
+	font-weight: 600;
+	padding: 100px;
+	box-sizing: border-box;
+	text-align: center;
+	margin: auto;
+}
+
+.santex-carecloud-text img {
+	margin-bottom: 40px;
+	max-width: 330px;
+	width: 100%;
+}
+
+.image-numbers {
+	float: left;
+	margin: 4px 40px 10px 0;
+}
